@@ -46,7 +46,7 @@ by using an USB cable and an USB socket breakout card.
 
 ![](./images/USB_wiring.jpg)
 
-The complete arrangement is seen in the picture below.
+The complete arrangement is shown in the picture below.
 
 ![](./images/USBMSD_arrangement.jpg)
 
@@ -85,7 +85,7 @@ Finally the **mbed_app.json** sholuld look like this:
 ## mbed6_usbMSD results
 After connecting, it may be necessary to format the SD card first, 
 then we can write/read its file system as usual with pen drives
-![](./images/USBbMSD_properties.png)
+![](./images/USBMSD_properties.png)
 
 ![](./images/USBMSD_files.png)
 
